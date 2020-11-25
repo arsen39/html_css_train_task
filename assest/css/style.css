@@ -17,16 +17,17 @@ header {
   text-align: center;
   padding-top: 40vh;
   color: #926239 ;
-  margin: 0px;
 }
 
 .header-head{
+  margin: 0px;
   font-size: 50px;
   font-weight: bold;
 }
 
 .header-text{
   font-size: 20px;
+  margin: 0px;
 }
 
 .header-btn{
@@ -36,6 +37,7 @@ header {
   border: 1px solid #926239;
   padding: 10px 20px;
   border-radius: 10px;
+  margin-top: 20px;
 }
 
 .header-btn:hover{
@@ -57,6 +59,7 @@ background-color: #f4f4f4;
   padding: 20px;
   font-size: 17px;
   text-align: center;
+  line-height: 1.6em;
 }
 
 .lin-bl{
@@ -64,6 +67,7 @@ background-color: #f4f4f4;
   box-sizing: border-box;
   width: 33vw;
   margin: 0px;
+  text-align: left;
 }
 
 .section4{
