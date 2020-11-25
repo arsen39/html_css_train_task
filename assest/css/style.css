@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 header {
@@ -15,7 +16,6 @@ header {
 .header-inner{
   text-align: center;
   padding-top: 40vh;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   color: #926239 ;
   margin: 0px;
 }
@@ -41,5 +41,32 @@ header {
 .header-btn:hover{
   background-color: #926239;
   color: white;
+}
+
+.odd{
+  background-color: #926239;
+  color: white;
+}
+
+.even{
+color: #926239;
+background-color: #f4f4f4;
+}
+
+.article{
+  padding: 20px;
+  font-size: 17px;
+  text-align: center;
+}
+
+.lin-bl{
+  display: inline-block;
+  box-sizing: border-box;
+  width: 33vw;
+  margin: 0px;
+}
+
+.section4{
+  background-color: #f9f9f9;
 }
 
